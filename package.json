@@ -25,7 +25,7 @@
     "gulp-open": "^3.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-uglify": "^3.0.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "node-sass": "^4.13.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
